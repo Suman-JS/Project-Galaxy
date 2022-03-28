@@ -8,7 +8,7 @@ Windows :
 Open cmd
 Use git clone command
 Cd to Project-Galaxy
-Pip install kivy
+Pip install requirement.txt
 Python main.py
 
 Mac OS :
@@ -16,7 +16,7 @@ Mac OS :
 Open Terminal
 Use git clone command
 Cd to Project-Galaxy
-Pip install kivy
+Pip install requirement.txt
 Python main.py
 
 Linux/Unix :
@@ -24,5 +24,5 @@ Linux/Unix :
 Open Terminal
 Use git clone command
 Cd to Project-Galaxy
-Pip3 install kivy
+python3 Pip3 install requirement.txt
 Python3 main.py
