@@ -1,28 +1,32 @@
 # Project-Galaxy
  A simple space game created using python and kivy
 
-there is the instructions how to run the game on every platform
+## HOw to run the game
 
-Windows :
+**STEP 1:**
 
-Open cmd
-Use git clone command
-Cd to Project-Galaxy
-Pip install requirement.txt
-Python main.py
+Open cmd/terminal
 
-Mac OS :
+**STEP 2:**
 
-Open Terminal
-Use git clone command
-Cd to Project-Galaxy
-Pip install requirement.txt
-Python main.py
+```bash
+git clone https://github.com/Suman-JS/Project-Galaxy.git
+```
 
-Linux/Unix :
+**STEP 3:**
 
-Open Terminal
-Use git clone command
-Cd to Project-Galaxy
-python3 Pip3 install requirement.txt
-Python3 main.py
+```bash
+Cd Project-Galaxy
+```
+
+**STEP 4:**
+
+```bash
+pip install requirement.txt
+```
+
+**STEP 5:**
+
+```bash
+python main.py
+```
